@@ -72,14 +72,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Este juego esta muy inspirado en los juegos de el estudio portugues AstralShift, principalmente en [Pocket Mirror](https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/?l=spanish) y [Little Goody Two Shoes](https://store.steampowered.com/app/1812370/Little_Goody_Two_Shoes/)., los cuales acabo de terminar de jugar hace bastante poco y por elllo han influenciado claramente en mi idea e gameplay.
+- Este juego esta muy inspirado en los juegos de el estudio portugues AstralShift, principalmente en [Pocket Mirror](https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/?l=spanish) y [Little Goody Two Shoes](https://store.steampowered.com/app/1812370/Little_Goody_Two_Shoes/), los cuales acabo de terminar de jugar hace bastante poco y por elllo han influenciado claramente en mi idea e gameplay.
 - La historia esta basada en la historia de un personaje que juego en una campaña de Dragones y Mazmorras al cual tengo especial cariño.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan años fascinando. Implementar la dinamica de la linterna es lo que me parece que hace este juego más interesante, pues he necesitado de un cronometro interno dentro de otro cronometro para que la imagen cambiara según iba corriendo la cuenta atrás.
 
 
 
