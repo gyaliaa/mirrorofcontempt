@@ -134,7 +134,7 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+- Dialogic 2
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
@@ -143,4 +143,4 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
