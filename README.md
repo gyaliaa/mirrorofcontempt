@@ -129,13 +129,13 @@ Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan 
 
 * Musica:  Adriane Lencker
 * Imágenes:  Originales, por Julia Sánchez López
-* Tipografía:
+* Tipografía: Google Fonts:[EB Garamond](https://fonts.google.com/specimen/EB+Garamond?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo), [Iosevka Charon](https://fonts.google.com/specimen/Iosevka+Charon?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo) y [Makondo](https://fonts.google.com/specimen/Macondo?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo&preview.script=Latn)
 * Video:
 * Tilemap:
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
+- Godot Engine 4.3
 - Dialogic 2
 
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
