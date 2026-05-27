@@ -72,8 +72,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Este juego esta muy inspirado en los juegos de el estudio portugues AstralShift, principalmente en [Pocket Mirror](https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/?l=spanish) y [Little Goody Two Shoes](https://store.steampowered.com/app/1812370/Little_Goody_Two_Shoes/)., los cuales acabo de terminar de jugar hace bastante poco y por elllo han influenciado claramente en mi idea e gameplay.
+- La historia esta basada en la historia de un personaje que juego en una campaña de Dragones y Mazmorras al cual tengo especial cariño.
 
 
 
