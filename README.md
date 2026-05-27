@@ -84,7 +84,7 @@ Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público juvenil/adolescente
 
 
 
