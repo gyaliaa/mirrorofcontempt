@@ -128,19 +128,16 @@ Este  proyecto es interesante porque ...
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
-* Tipografía: 
+* Imágenes:  Originales, por Julia Sánchez López
+* Tipografía:
+* Video:
+* Tilemap:
 
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
 - Dialogic 2
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
-
-* logos en https://creativecommons.org/mission/downloads/
-  
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
 Mayo 2026
