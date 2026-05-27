@@ -45,10 +45,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
+El gameplay principal consiste en un laberinto dentro del templo, que unido con la oscuridad dificulta la movilidad del jugador. Para aumentar su campo de visión el jugador puede recoger cerillas que hay esparcidas por el mapa. El objetivo final es encontrar los objetos perdidos, en el caso del primer nivel, un libro de oraciones para poder cruzar la puerta y pasar al siguiente nivel. En un futuro me gustaría implementar un dialogo con otro personaje tras el primer nivel, además de un segundo nivel y una animación frame por frame que conecte el final con el inicio del juego.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+![storyboard1](storyboard1.png) ![storyboard2](storyboard2.png) ![storyboard3](storyboard3.png)
 
 ### 2.2. Esquema de navegación 
 
