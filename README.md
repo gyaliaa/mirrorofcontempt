@@ -130,8 +130,8 @@ Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan 
 * Musica:  Adriane Lencker
 * Imágenes:  Originales, por Julia Sánchez López
 * Tipografía: Google Fonts:[EB Garamond](https://fonts.google.com/specimen/EB+Garamond?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo), [Iosevka Charon](https://fonts.google.com/specimen/Iosevka+Charon?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo) y [Makondo](https://fonts.google.com/specimen/Macondo?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800|Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700|Macondo&preview.script=Latn)
-* Video:
-* Tilemap:
+* Video: Tome de base este video de [youtube](https://www.youtube.com/watch?v=ZQH--ZGgXe4) que después edité.
+* Tilemap: [diesnight](https://diednight.itch.io/the-church-based-tileset-a-little-something-for-you)
 
 **Herramientas utilizadas**
 
