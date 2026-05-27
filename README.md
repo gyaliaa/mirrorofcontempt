@@ -127,7 +127,7 @@ Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  Adriane Lencker
 * Imágenes:  Originales, por Julia Sánchez López
 * Tipografía:
 * Video:
