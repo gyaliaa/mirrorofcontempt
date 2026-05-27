@@ -1,4 +1,4 @@
-## (Mirror of Contempt)
+## Mirror of Contempt
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(Mirror of Contempt)
+**Titulo** : Mirror of Contempt
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Julia Sánchez López
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
