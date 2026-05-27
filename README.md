@@ -14,34 +14,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Julia Sánchez López
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
 **Resumen** : Livio es un niño que forma parte de la Iglesia de Cyric. Su objetivo es encontrar las reliquias que ha perdido en la oscuridad de la catedral
 
 **Estilo/género:**  Juego RPG
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logo](IMG_1571.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648px (reescalable)
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 102 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 27/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
-- Twitter
-- Instagram
+- Itch.io: [LINK](https://gyalia.itch.io/mirror-of-contempt-wip)
+- Twitter: [Link](https://x.com/gyaliaa)
+  
 
 
-![girl](WalkingGirl_front01.png)
+![girl](IMG_1572.png)
 
 # 2. Memoria del proyecto 
 
