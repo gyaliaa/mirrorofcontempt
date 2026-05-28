@@ -101,11 +101,11 @@ La parte más compleja fue hacer que los objetos fuesen interactuables. El libro
 ## Etapa 3: Problemas identificados
 
 Creo que el juego tiene 3 aspectos con los que no estoy completamente satisfecha:
--Video:El video que me gustaria añadir en la versión final es una animación, pero por falta de tiempo decidí añadir un video que no es personalizado como introducción a la sección de "Historia" y no me convence del todo. Además, ya he mencionado la mala cálidad.
+**-Video:** El video que me gustaria añadir en la versión final es una animación, pero por falta de tiempo decidí añadir un video que no es personalizado como introducción a la sección de "Historia" y no me convence del todo. Además, ya he mencionado la mala cálidad.
 
--Tiempos:Debido a los efectos de sonido, cuando interactuas con algo que hace ruido hay que esperar a que acabe el efecto por completo o si no se cportaban, lo que puede crear tiempos de espera algo largos.
+**-Tiempos:** Debido a los efectos de sonido, cuando interactuas con algo que hace ruido hay que esperar a que acabe el efecto por completo o si no se cortaban, lo que puede crear tiempos de espera algo largos.
 
--Sistema de dialogos:
+**-Sistema de dialogos:** No aprendí a instalar el Dialogic hasta la última clase, asiq eu estuve trabajando con una versión simulada que daba problemas. Al instalar el dialogic trate de cambiar el estilo de la caja de texto para que encajara con la estetica, pero tuve complicaciones y por la falta de tiempo deje el estilo predeterminado, aunque me gustaría cambiarlo en el futuro.
 
 
 
