@@ -92,25 +92,26 @@ Queria probar hacer un juego al estilo de los juegos de RPG maker que me llevan 
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+El menu fue bastante sencillo. Las partes más complejas fueron el código del carrusel de la galareia que tras varios ajustes conseguí adaptar a mi proyecto y el botón de mute que no entendia del todo comno funcionaba la música al ser una global. Algo que me fastidió bastante es que al video no poder ser un mp4 se comió bastante la calidad y ha quedado bastante pixelado.
+En cuanto el juego el sistema del tilemap y las animaciones del personaje jugable fueron bastante más sencillo de lo que esperaba gracias a la cantidad de tutoriales que encontré en internet. Fue la parte más tediosa pues fue lo que me consumió más tiempo pero fue bastante entretenido. 
+La parte más compleja fue hacer que los objetos fuesen interactuables. El libro fue sencillo ya que funciona esencialmente como una llave, pero el sistema de las cerillas fue más complejo. Primero, el juego tenía que identificar cuando el personaje colisionaba especificamente con una cerilla. Esto activaba una cuenta atras que se muestra en una barra que va disminuyendo en la esquina inferior izquierda. Que comience esta cuenta atras hace a su vez que los sprites de la sombra y la lampara cambien y activen su propio timer interno para cambiar entre dos sprites y dar la sensación de una luz de vela.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que el juego tiene 3 aspectos con los que no estoy completamente satisfecha:
+-Video:El video que me gustaria añadir en la versión final es una animación, pero por falta de tiempo decidí añadir un video que no es personalizado como introducción a la sección de "Historia" y no me convence del todo. Además, ya he mencionado la mala cálidad.
+
+-Tiempos:Debido a los efectos de sonido, cuando interactuas con algo que hace ruido hay que esperar a que acabe el efecto por completo o si no se cportaban, lo que puede crear tiempos de espera algo largos.
+
+-Sistema de dialogos:
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Hacer un juego de este estilo ha sido más sencillo de lo que esperaba. Mucha gente de mi alrededor me han pedido el nombre del programa al ver lo que estaba haciendo porque les gustaría intentar probar a hacer sus propios proyectos. Lo que siento que me ha faltado para tener un resultado con el que estoy 100% satisfecha es tiemnpo ya que las otras asignaturas de la carrear me han dado bastante carga de trabajo. En un futuro como he mencionado quiero mejorar los dialogos y añadir más cantidad, además de añadir un segundo laberinto y una animación propia como video que concluya bien el proyecto.
 
 
 
